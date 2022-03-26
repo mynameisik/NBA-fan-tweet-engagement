@@ -10,7 +10,7 @@ library(readr) # To import csv file
 
 
 #set working directory
-setwd("C:/Users/ikech/OneDrive/Desktop/Text-Mining-NLP/Case/Case I/Data")
+#setwd("~/Desktop/Text-Mining-NLP/Case/Case I/Data")
 
 
 #file workload of entire corpora was large, could not process with system size.

@@ -13,7 +13,6 @@ library(readr) # To import csv file
 #setwd("~/Desktop/Text-Mining-NLP/Case/Case I/Data")
 
 
-#file workload of entire corpora was large, could not process with system size.
 #providing analysis on first month.
 NBA <-  read_csv("A_Oct2019.csv")
 

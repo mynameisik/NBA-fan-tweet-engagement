@@ -1,6 +1,5 @@
-#' Title: Case 1- NBA fan tweet engagement
-#' NAME: Ikechi Nwaozuzu
-#' Date: March 13 2022
+#' Title: NBA fan tweet engagement
+#' NAME: Ik Nwaozuzu
 #' Text analytics case study
 #######################################
 #Loading packages, working directory and reading CSV file
